@@ -3,7 +3,7 @@ import React from "react";
 export default function Exames() {
     return (
         <>
-        <p>Exames</p>
+        <p className="bg-red-700">Exames</p>
         </>
     )
 }

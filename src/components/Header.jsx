@@ -34,7 +34,7 @@ function Header() {
         <div className="headerNav">
           <nav className="nav">
             <a href="index.html" className="nav-link">HOME</a>
-            <a href="#">EXAMES</a>
+            <a href="#exames">EXAMES</a>
             <a href="#">AGENDE SUA CONSULTA</a>
             <a href="#">EQUIPE MÉDICA</a>
             <a href="#">BLOG</a>

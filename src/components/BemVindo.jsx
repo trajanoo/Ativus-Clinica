@@ -10,7 +10,7 @@ export default function BemVindo() {
       };
     return (
         <>
-        <div className="slider">
+        <div id="" className="slider">
           <div className="slides">
             <img src="/slide1.avif" alt="" className="slide active" style={{ filter: "saturate(150%)" }} />
             <img src="/slide2.avif" alt="" className="slide" />
@@ -35,7 +35,7 @@ export default function BemVindo() {
             </div>
           </div>
 
-          <div className="areasAtuacao">
+          <div id="areasAtuacao" className="areasAtuacao">
             <h2>Conheça nossas áreas de atuação</h2>
 
             <div className="gridAreas">

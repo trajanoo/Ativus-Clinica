@@ -8,7 +8,7 @@ function scrollConvenios(direcao) {
 
     return (
         <>
-        <div className="convenios">
+        <div id="convenio" className="convenios">
             <div>
               <h2>Convênios Atendidos</h2>
               <p className="subtituloConvenios">Confira os principais convênios aceitos em nossas unidades</p>

@@ -6,6 +6,7 @@ import Convenio from "./components/Convenio";
 import Localizacao from "./components/Localizacao";
 import Footer from "./components/Footer";
 import Exames from "./components/Exames";
+import Agendar from "./components/Agendar";
 
 function App() {
 
@@ -27,6 +28,7 @@ function App() {
           <Convenio />
           <Localizacao />
           <Exames />
+          <Agendar />
 
           <Footer />
         </div>
